@@ -1,0 +1,11 @@
+1. Java is a general purpose object oriented programming language and Scala is a combination of both object oriented and functional programming.
+
+2. Java has more readability than Scala.
+
+3. In Java, the process of compiling source code in to machine language is faster than Scala.
+
+4. Java is backward compatible and Scala isn't.
+
+5. Java doesn't support operator overloading and Scala supports operator overloading.
+
+6. Java treats every function as an object but in Scala every method or function is treated a a variable.
