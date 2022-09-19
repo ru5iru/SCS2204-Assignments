@@ -72,3 +72,11 @@ money from this account to a given account.
     * Calculate the final balances of all accounts after apply the interest function as follows:
         * If balance is positive, deposit interest is .05 and if balance is negative, overdraft interest is
 .1
+
+### Assignment 7
+
+1. Implement a case class Point(x,y) and create following methods:
+      a. add(+) should add two given points
+      b. move should move a point by a given distance dx and dy
+      c. distance should return the distance between two given points
+      d. invert should switch the x and y coordinates.
